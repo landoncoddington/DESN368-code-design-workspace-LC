@@ -8,12 +8,12 @@
 **2. Design courses completed:**  
 [x] DESN 100  
 [ ] DESN 200  
-[ ] DESN 216  
-[ ] DESN 243  
+[x] DESN 216  
+[x] DESN 243  
 [ ] DESN 263  
 [ ] DESN 338  
 [ ] None  
-[ ] Other: _______________
+[x] Other: 305
 
 **3. Web experience:**  
 [ ] Never coded  
