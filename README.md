@@ -42,7 +42,7 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 *Update these links as you complete each tool setup:*
 - **GitHub:** (https://github.com/landoncoddington) ⏳
 - **Workspace (Forked Repo):** (https://github.com/landoncoddington/DESN368-code-design-workspace-LC) ⏳
-- **Figma:** [Add your Figma username here] ⏳
+- **Figma:** lcoddington1 ⏳
 - **CodePen:** (https://codepen.io/landoncoddington) ⏳
 - **GitHub Student Pack:** [Confirm approval status here] ⏳  
 
